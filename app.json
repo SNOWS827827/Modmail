@@ -1,5 +1,5 @@
 {
-    "name": "Modmail",
+    "name": "SnowsVille Support Bot",
     "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
     "repository": "https://github.com/modmail-dev/modmail",
     "env": {
