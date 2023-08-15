@@ -7,7 +7,7 @@
             "description": "Your discord bot's token.",
             "required": true
         },
-        "GUILD_ID": {https://discord.gg/hryafBxKRR
+        "GUILD_ID": {https:1139014910118993930
             "description": "The id for the server you are hosting this bot for.",
             "required": true
         },
@@ -15,7 +15,7 @@
             "description": "The ID of the discord server where the threads channels should be created (receiving server). Default to GUILD_ID.",
             "required": false
         },
-        "OWNERS": {@snows827827#6117
+        "OWNERS": {991788282327351367
             "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
             "required": true
         },
