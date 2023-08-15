@@ -3,7 +3,7 @@
     "description": "An easy to install Modmail bot for Discord - DM to contact mods!",
     "repository": "https://github.com/modmail-dev/modmail",
     "env": {
-        "TOKEN": {
+        "TOKEN": {2434
             "description": "Your discord bot's token.",
             "required": true
         },
@@ -19,7 +19,7 @@
             "description": "Comma separated user IDs of people that are allowed to use owner only commands. (eval).",
             "required": true
         },
-        "CONNECTION_URI": {
+        "CONNECTION_URI": {mongodb+srv://nathanyelastewart:<password>@cluster0.ye5xikm.mongodb.net/?retryWrites=true&w=majority
             "description": "The connection URI for your database.",
             "required": true
         },
@@ -27,7 +27,7 @@
             "description": "The type of your database. There is only one supported database at the moment - MongoDB (default).",
             "required": false
         },
-        "LOG_URL": {
+        "LOG_URL": {https://yourlogviewerappname.herokuapp.com
             "description": "The url of the log viewer app for viewing self-hosted logs.",
             "required": true
         },
