@@ -7,7 +7,7 @@
             "description": "Your discord bot's token.",
             "required": true
         },
-        "GUILD_ID": {https:1139014910118993930
+        "GUILD_ID": {1139014910118993930
             "description": "The id for the server you are hosting this bot for.",
             "required": true
         },
